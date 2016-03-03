@@ -1,6 +1,6 @@
 {
   "name": "responsive-reset.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stylesheet that does a reset and set typo for responsive CSS.",
   "main": "build.js",
   "scripts": {

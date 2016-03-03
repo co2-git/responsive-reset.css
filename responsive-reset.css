@@ -99,12 +99,12 @@ line-height: 1.3em;
 line-height: 1.3em;
   }
 }
-input, button {
+input, button, select {
   font-size: 22px;
 line-height: 1.3em;
 }
 @media screen and (max-device-width : 600px) {
-  input, button {
+  input, button, select {
     font-size: 54px;
 line-height: 1.3em;
   }

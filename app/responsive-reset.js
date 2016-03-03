@@ -42,12 +42,12 @@ export default new Stylesheet('html { font-size : 100% }')
     mobile
   )
 
-  .add('input, button',
+  .add('input, button, select',
     new D('font-size', style.font.size.input.desktop),
     new D('line-height', style.line.height)
   )
 
-  .add('input, button',
+  .add('input, button, select',
     new D('font-size', style.font.size.input.mobile),
     new D('line-height', style.line.height),
     mobile
